@@ -27,6 +27,7 @@ Listed below is the current list of TSC members:
    - [fadeAce](https://github.com/fadeAce)
    - [lehem](https://github.com/LehemYang)
    - [tinys](https://github.com/tinys)
+   - [tianya8318](https://github.com/tianya8318)
 
 > 根据治理规则，以上成员名单非固定席位，因长期未参与会议或新增提名会随时发生变动。
 
