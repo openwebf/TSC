@@ -23,6 +23,10 @@ Listed below is the current list of TSC members:
    - [yuanyan](https://github.com/yuanyan)
    - [answershuto](https://github.com/answershuto)
    - [temper357](https://github.com/temper357)
+   - [AlienegraGeek](https://github.com/AlienegraGeek)
+   - [fadeAce](https://github.com/fadeAce)
+   - [lehem](https://github.com/LehemYang)
+   - [tinys](https://github.com/tinys)
 
 > 根据治理规则，以上成员名单非固定席位，因长期未参与会议或新增提名会随时发生变动。
 
