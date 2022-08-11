@@ -1,4 +1,4 @@
-# OpenKraken Project Governance
+# OpenWebF Project Governance
 
 <!-- TOC -->
 
@@ -15,14 +15,14 @@
 
 ## Collaborators
 
-OpenKraken Core Collaborators maintain the [openkraken/kraken][] GitHub repository.
-The GitHub team for OpenKraken Core Collaborators is @openkraken/collaborators.
+OpenWebF Core Collaborators maintain the [openwebf/webf][] GitHub repository.
+The GitHub team for OpenWebF Core Collaborators is @openwebf/collaborators.
 Collaborators have:
 
-* Commit access to the [openkraken/kraken][] repository
-* Access to the OpenKraken continuous integration (CI) jobs
+* Commit access to the [openwebf/webf][] repository
+* Access to the OpenWebF continuous integration (CI) jobs
 
-Both Collaborators and non-Collaborators may propose changes to the OpenKraken
+Both Collaborators and non-Collaborators may propose changes to the OpenWebF
 source code. The mechanism to propose such a change is a GitHub pull request.
 Collaborators review and merge (_land_) pull requests.
 
@@ -50,31 +50,31 @@ status. Emeriti may request that the TSC restore them to active status.
 
 ### Collaborator nominations
 
-Existing Collaborators can nominate someone to become a Collaborator. Nominees should have significant and valuable contributions across the OpenKraken organization.
+Existing Collaborators can nominate someone to become a Collaborator. Nominees should have significant and valuable contributions across the OpenWebF organization.
 
-To nominate a new Collaborator, open an issue in the [openkraken/kraken][] repository. Provide a summary of the nominee's contributions. For example:
+To nominate a new Collaborator, open an issue in the [openwebf/webf][] repository. Provide a summary of the nominee's contributions. For example:
 
-* Commits in the [openkraken/kraken][] repository
-  * Use the link `https://github.com/openkraken/kraken/commits?author=GITHUB_ID`
-* Pull requests and issues opened in the [openkraken/kraken][] repository
-  * Use the link `https://github.com/openkraken/kraken/issues?q=author:GITHUB_ID`
-* Comments on pull requests and issues in the [openkraken/kraken][] repository
-  * Use the link `https://github.com/openkraken/kraken/issues?q=commenter:GITHUB_ID`
-* Reviews on pull requests in the [openkraken/kraken][] repository
-  * Use the link `https://github.com/openkraken/kraken/pulls?q=reviewed-by:GITHUB_ID`
-* Pull requests and issues opened throughout the OpenKraken organization
-  * Use the link  `https://github.com/search?q=author:GITHUB_ID+org:openkraken`
-* Comments on pull requests and issues throughout the OpenKraken organization
-  * Use the link `https://github.com/search?q=commenter:GITHUB_ID+org:openkraken`
+* Commits in the [openwebf/webf][] repository
+  * Use the link `https://github.com/openwebf/webf/commits?author=GITHUB_ID`
+* Pull requests and issues opened in the [openwebf/webf][] repository
+  * Use the link `https://github.com/openwebf/webf/issues?q=author:GITHUB_ID`
+* Comments on pull requests and issues in the [openwebf/webf][] repository
+  * Use the link `https://github.com/openwebf/webf/issues?q=commenter:GITHUB_ID`
+* Reviews on pull requests in the [openwebf/webf][] repository
+  * Use the link `https://github.com/openwebf/webf/pulls?q=reviewed-by:GITHUB_ID`
+* Pull requests and issues opened throughout the OpenWebF organization
+  * Use the link  `https://github.com/search?q=author:GITHUB_ID+org:openwebf`
+* Comments on pull requests and issues throughout the OpenWebF organization
+  * Use the link `https://github.com/search?q=commenter:GITHUB_ID+org:openwebf`
 * Help provided to end-users and novice contributors
-* Participation in other projects, teams, and working groups of the OpenKraken organization
+* Participation in other projects, teams, and working groups of the OpenWebF organization
 
-Mention @openkraken/collaborators in the issue to notify other Collaborators about the nomination.
+Mention @openwebf/collaborators in the issue to notify other Collaborators about the nomination.
 The nomination passes if no Collaborators oppose it after one week. Otherwise, the nomination fails.
 
 ## Technical Steering Committee
 
-A subset of the Collaborators forms the Technical Steering Committee (TSC). The TSC is responsible for all technical development within the OpenKraken project, including:
+A subset of the Collaborators forms the Technical Steering Committee (TSC). The TSC is responsible for all technical development within the OpenWebF project, including:
 
 * Setting release dates.
 * Release quality standards.
@@ -85,11 +85,11 @@ A subset of the Collaborators forms the Technical Steering Committee (TSC). The 
 * Maintaining the list of additional Collaborators.
 * Development process and any coding standards.
 * Mediating technical conflicts between Collaborators projects.
-* The TSC will define OpenKraken project’s release vehicles.
+* The TSC will define OpenWebF project’s release vehicles.
 
 ### Establishment TSC
 
-The TSC members will elect from Collaborators. TSC memberships are not time-limited. There is no maximum size of the TSC. The size is expected to vary in order to ensure adequate coverage of important areas of expertise, balanced with the ability to make decisions efficiently. The TSC must have at least three members.
+For more incoming members, the TSC members will elect from Collaborators, recommend from other TSC members or send self-recommend email to `dongtiangche@outlook.com`. TSC memberships are not time-limited. There is no maximum size of the TSC. The size is expected to vary in order to ensure adequate coverage of important areas of expertise, balanced with the ability to make decisions efficiently. The TSC must have at least three members.
 
 There is no specific set of requirements or qualifications for TSC membership beyond these rules. The TSC may add additional members to the TSC by a standard TSC motion and vote. A TSC member may be removed from the TSC by voluntary resignation, by a standard TSC motion, or in accordance to the participation rules described below.
 
@@ -146,11 +146,11 @@ meeting, the TSC chair ensures that someone opens a pull request with the
 minutes.
 
 The TSC seeks to resolve as many issues as possible outside meetings using
-[the TSC issue tracker](https://github.com/openkraken/TSC/issues). The process in
+[the TSC issue tracker](https://github.com/openwebf/TSC/issues). The process in
 the issue tracker is:
 
 * A TSC member opens an issue explaining the proposal/issue and @-mentions
-  @openkraken/tsc.
+  @openwebf/tsc.
 * The proposal passes if, after 72 hours, there are two or more TSC approvals
   and no TSC opposition.
 * If there is an extended impasse, a TSC member may make a motion for a vote.
@@ -173,7 +173,7 @@ For all votes, a simple majority of all TSC members for, or against, the issue w
 A TSC member may choose to participate in any vote through abstention.
 
 
-[openkraken/kraken]: https://github.com/openkraken/kraken
+[openwebf/webf]: https://github.com/openwebf/webf
 [Lazy Consensus]: https://community.apache.org/committers/lazyConsensus.html
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
